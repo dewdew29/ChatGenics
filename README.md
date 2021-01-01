@@ -1,6 +1,6 @@
 # ChatGenics
 A Chat Application created by me. 
-Built using Php,HTML and CSS. For database, I have used MySQL for database.
+Built using Php,HTML and CSS. For database, I have used MySQL.
 
 To run this, you will need Xampp Server installed in your computer.
 After installing, open it and start the "Apache" and "MySQL" server.
